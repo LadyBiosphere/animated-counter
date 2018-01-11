@@ -65,9 +65,13 @@ h1{
 	body{
 		padding-top: 5px;
 		background-color: #fff;
+		background-image: url(https://ak7.picdn.net/shutterstock/videos/16119847/thumb/1.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 	#container{
+		background-color: rgba(13, 24, 33, 0.84);
 		padding: 15px;
 		border-radius: 10px;
 		width: 360px;
